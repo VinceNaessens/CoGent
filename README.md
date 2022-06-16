@@ -22,6 +22,7 @@ The application allows users to query a certain keyword, this keyword will be ma
 The [Silent Demo][1] presents all features of the application CoGent. Next to this, the [User Story][2] provides more details about the users who will work with the application. The canvasses can be found when clicking on this [link][3].
 
 Final pitch slides: Found in this repositiory under PitchSlides.pdf
+Value Proposition Canvase: Found in this repository under ValuePropositionCanvas.jpg
 
 [1]:https://youtu.be/R25ouoxh1rY "Silent Demo"
 [2]:https://youtu.be/7bckddyx9jY "User Story"
